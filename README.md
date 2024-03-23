@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://img.freepik.com/free-photo/man-using-laptop-work-connect-with-others_23-2149369111.jpg?w=1060&t=st=1711183139~exp=1711183739~hmac=8ed1812bd56c43d8bc03800c17d1c6bb25681f235d0a2da5df4d704dff8e0961))](https://rishavchanda.io)
+[![MasterHead]([https://img.freepik.com/free-photo/man-using-laptop-work-connect-with-others_23-2149369111.jpg?w=1060&t=st=1711183139~exp=1711183739~hmac=8ed1812bd56c43d8bc03800c17d1c6bb25681f235d0a2da5df4d704dff8e0961])](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jignesh Dagar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

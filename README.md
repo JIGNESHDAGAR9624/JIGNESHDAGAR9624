@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Blockchain , Solidity**
 
-- 💬 Ask me about **Blockchain ,solidity , html , css , java**
+- 💬 Ask me about **Blockchain ,solidity , html , css , javascript ,react js , web.js , Ether.js **
 
 - 📫 How to reach me **dagarjignesh7046@gmail.com**
 
